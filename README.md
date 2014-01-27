@@ -1,4 +1,4 @@
-# Test repository
+# Test git repository
 
 This is a test.
 
